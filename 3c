@@ -1,0 +1,3 @@
+sshpass -p 'tm4sms#tw@68' ssh -o StrictHostKeyChecking=no root@138.197.215.68
+
+

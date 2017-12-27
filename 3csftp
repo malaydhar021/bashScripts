@@ -1,0 +1,3 @@
+sshpass -p 'tm4sms#tw@68' sftp -o StrictHostKeyChecking=no root@138.197.215.68
+
+
